@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,300italic,300);
+
+body {
+margin: 0;
+padding: 0;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-size: 14px;
+line-height: 20px;
+font-weight: 300;
+color: #555;
+text-align: center;
+background: #ddd;	
+}
+
+.site_wrapper {
+margin: 0 auto;
+padding: 0;
+text-align: left;
+background: #fff;
+width: 800px;	
+}
+
+.content {
+padding: 18px 36px;	
+}
+
+.img_right {
+float: right;
+margin: 0 0 24px 30px;	
+}
+
+.clear {
+clear: both;	
+}
+
+h1, h2 {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 300;	
+
+}
+
+h1 {
+margin-bottom: 42px;
+color: #060f25;	
+font-size: 36px;
+text-align: center;
+}
+
+h2 {
+margin-top: 20px;
+color: #0a2b4f;
+text-transform: uppercase;	
+}
+
+p {
+margin: 0 0 28px 0;	
+}
+
+strong {
+font-weight: 600;	
+}
+
+a {
+color: #036a9b;	
+}
+
+a:hover {
+color: #07caa5;	
+}
+
+hr {
+margin: 18px 0;	
+}
