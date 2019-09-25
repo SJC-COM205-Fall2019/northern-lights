@@ -1,4 +1,5 @@
 <h1>In Class Exercise:  Northern Lights</h1>
+<p>Together we will step through the major concepts of Dreamweaver Lessons 2 and 3.</p>
 
 <h2><strong>In this exercise, you will:</strong></h2>
 <ul>
