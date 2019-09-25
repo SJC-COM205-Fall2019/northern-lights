@@ -1,9 +1,9 @@
 <h1>In Class Exercise:  Northern Lights</h1>
 <p>Together we will step through the major concepts of Dreamweaver Lessons 2 and 3.</p>
-
-<h2><strong>In this exercise, you will:</strong></h2>
+<br />
+<h2><strong>In this exercise, we will:</strong></h2>
 <ul>
-<li>Identify html tag structure</li>
+<li>Review project Mockups and identify html tag structure</li>
 <li>Work with Meta Tags</li>
 <li>Copy and clean up text from a Word Document</li>
 <li>Format Text using Dreamweaver </li>
